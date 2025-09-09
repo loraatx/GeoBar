@@ -1,0 +1,5 @@
+{
+  "name": "GeoBar Connect",
+  "description": "A social application that allows users to see and connect with others who are currently within the same predefined geofence, such as a specific bar or venue. You can only see profiles of users who are in the same location as you.",
+  "requestFramePermissions": []
+}
